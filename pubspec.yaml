@@ -10,6 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   provider: any
+  blurrycontainer: any
+  intl: any
 
 dev_dependencies:
   flutter_test:
@@ -18,3 +20,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/2.1/
