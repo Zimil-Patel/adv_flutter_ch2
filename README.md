@@ -16,9 +16,9 @@
 ### Screenshots 📷
 
 <div align="center">
-<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.1/img1.png" height = 580 width = 260> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.1/img2.png" height = 580 width = 260> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.1/img3.png" height = 580 width = 260>
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.1/img1.png" height = 540 width = 260> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.1/img2.png" height = 540 width = 260> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.1/img3.png" height = 540 width = 260>
 
-<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.1/img4.png" height = 580 width = 260> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.1/img4.png" height = 540 width = 260> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ## ➺ 2.1.2 Time Picker [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/android%20time%20picker)
@@ -34,9 +34,9 @@
 ### Screenshots 📷
 
 <div align="center">
-<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.2/img4.png" height = 580 width = 260> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.2/img1.png" height = 580 width = 260> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.2/img2.png" height = 580 width = 260>
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.2/img4.png" height = 540 width = 260> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.2/img1.png" height = 540 width = 260> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.2/img2.png" height = 540 width = 260>
 
-<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.2/img3.png" height = 580 width = 260> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.2/img3.png" height = 540 width = 260> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 
