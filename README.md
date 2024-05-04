@@ -57,7 +57,7 @@
 </div>
 
 
-## ✔️ 2.1.4 Cupertino Timer Picker [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/ios%20time%20picker)
+## ✔️ 2.1.4 Cupertino ActionSheet [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/ios%20action%20sheet)
 
 ### Appendix
 
@@ -72,5 +72,24 @@
 <div align="left">
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.4/img1.png" height = 510 width = 240>
 </div>
+
+
+## ✔️ 2.1.5 Cupertino ActionSheet [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/android%20time%20picker)
+
+### Appendix
+
+1. __Effortless Integration__: Seamlessly integrate our Flutter Cupertino action sheet widget into your project for swift user interactions.
+2. __iOS Native Design__: Adheres to the native iOS design standards, providing a consistent and intuitive user experience.
+3. __Tailored Visuals__: Customize colors, fonts, and styles effortlessly to align with your app's unique branding and aesthetics.
+4. __Localization Ready__: Built-in support for displaying action sheet content in different languages and adapting to various regional preferences.
+5. __Interactive Options__: Offers versatile options for user interaction, including buttons, menus, and customizable actions for dynamic app workflows.
+
+### Screenshots 📷
+
+<div align="left">
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.5/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.5/img2.png" height = 510 width = 240>
+</div>
+
+
 
 
