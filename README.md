@@ -21,7 +21,8 @@
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.1/img4.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-## ➺ 2.1.2 Time Picker [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/android%20time%20picker)
+
+## ✔️ 2.1.2 Time Picker [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/android%20time%20picker)
 
 ### Appendix
 
@@ -37,6 +38,39 @@
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.2/img4.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.2/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.2/img2.png" height = 510 width = 240>
 
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.2/img3.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+## ✔️ 2.1.3 Cupertino Date Picker [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/ios%20date%20picker)
+
+### Appendix
+
+1. __Effortless Integration__: Seamlessly integrate our Flutter Cupertino date picker widget into your project with minimal setup.
+2. __Native iOS Look & Feel__: Emulates the native iOS date picker for a familiar and intuitive user interface.
+3. __Tailored Styling Options__: Customize colors, fonts, and date formats effortlessly to align with your app's design language.
+4. __Global Language Support__: In-built localization capabilities ensure dates are displayed accurately across different languages and regions.
+5. __Adaptable Date Selection__: Empower users with the flexibility to pick single dates, date ranges, or constrain selections within specific intervals.
+
+### Screenshots 📷
+
+<div align="left">
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.3/img1.png" height = 510 width = 240>
+</div>
+
+
+## ✔️ 2.1.4 Cupertino Timer Picker [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/ios%20time%20picker)
+
+### Appendix
+
+1. __Seamless Integration__: Integrate our Flutter Cupertino timer picker widget effortlessly into your project for swift time selection.
+2. __Native iOS Experience__: Offers an authentic iOS timer picker interface for a seamless user experience on Apple devices.
+3. __Tailored Visuals__: Customize colors, fonts, and timer formats effortlessly to maintain consistency with your app's aesthetics.
+4. __Global Timezone Support__: Built-in localization ensures accurate time representation across various timezones and formats.
+5. __Versatile Time Selection__: Empowers users to select precise times or durations with options for custom intervals and countdowns.
+
+### Screenshots 📷
+
+<div align="left">
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.4/img1.png" height = 510 width = 240>
 </div>
 
 
