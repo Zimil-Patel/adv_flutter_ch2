@@ -15,7 +15,7 @@
 
 ### Screenshots 📷
 
-<div align="center">
+<div align="left">
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.1/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.1/img2.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.1/img3.png" height = 510 width = 240>
 
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.1/img4.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp;
