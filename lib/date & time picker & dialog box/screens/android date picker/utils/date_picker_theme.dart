@@ -9,6 +9,5 @@ class DataPickerCustomTheme {
     headerForegroundColor: Colors.white,
     weekdayStyle: TextStyle(color: Colors.teal),
     headerHelpStyle: TextStyle(fontSize: 18),
-    inputDecorationTheme: InputDecorationTheme(),
   );
 }

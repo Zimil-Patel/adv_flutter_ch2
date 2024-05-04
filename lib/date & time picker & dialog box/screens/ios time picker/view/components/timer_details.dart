@@ -41,8 +41,8 @@ class TimerDetails extends StatelessWidget {
               ],
             ),
           ),
-          const Divider(
-            color: Colors.grey,
+          Divider(
+            color: Colors.grey.withOpacity(0.5),
             thickness: 0.4,
           ),
           Padding(

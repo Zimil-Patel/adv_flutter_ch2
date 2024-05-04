@@ -27,21 +27,23 @@ class AndroidDatePicker extends StatelessWidget {
       ),
       themeMode: ThemeMode.dark,
       debugShowCheckedModeBanner: false,
-      home: Scaffold(
-        appBar: customAppBar(context: context, title: 'DatePicker'),
-        body: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            //TEXT FIELD
-            TextFieldForDate(primary: primary),
-            Padding(
-              padding: const EdgeInsets.only(left: 24.0),
-              child: Text(
-                'DD/MM/YYYY',
-                style: TextStyle(fontSize: height * 0.016),
-              ),
-            )
-          ],
+      home: SafeArea(
+        child: Scaffold(
+          appBar: customAppBar(context: context, title: 'DatePicker'),
+          body: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              //TEXT FIELD
+              TextFieldForDate(primary: primary),
+              Padding(
+                padding: const EdgeInsets.only(left: 24.0),
+                child: Text(
+                  'DD/MM/YYYY',
+                  style: TextStyle(fontSize: height * 0.016),
+                ),
+              )
+            ],
+          ),
         ),
       ),
     );
