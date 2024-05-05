@@ -21,6 +21,10 @@
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.1/img4.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
+### Video Preview 🎥
+
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/d9e91e7d-8483-40aa-9658-10ca8fd0a200
+
 
 ## ✔️ 2.1.2 Time Picker [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/android%20time%20picker)
 
@@ -40,6 +44,11 @@
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.2/img3.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
+### Video Preview 🎥
+
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/3c2aeb6c-7eb4-47a7-97cc-f48f8dcb03df
+
+
 ## ✔️ 2.1.3 Cupertino Date Picker [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/ios%20date%20picker)
 
 ### Appendix
@@ -55,6 +64,10 @@
 <div align="left">
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.3/img1.png" height = 510 width = 240>
 </div>
+
+### Video Preview 🎥
+
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/a2289edc-a09a-419d-ac38-60411bed0955
 
 
 ## ✔️ 2.1.4 Cupertino ActionSheet [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/ios%20action%20sheet)
@@ -73,6 +86,10 @@
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.4/img1.png" height = 510 width = 240>
 </div>
 
+### Video Preview 🎥
+
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/41ab1cfe-ad55-4cbc-9c28-34a811b63eb8
+
 
 ## ✔️ 2.1.5 Cupertino ActionSheet [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/android%20time%20picker)
 
@@ -89,6 +106,10 @@
 <div align="left">
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.5/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.5/img2.png" height = 510 width = 240>
 </div>
+
+### Video Preview 🎥
+
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/ee51da86-af47-4100-894d-1893a003aa78
 
 
 ## ✔️ 2.1.6 Dailog In Flutter [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/android%20time%20picker)
@@ -107,5 +128,8 @@
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.6/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.6/img2.png" height = 510 width = 240>
 </div>
 
+### Video Preview 🎥
+
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/9a90d230-758d-468c-a5b3-d2a236d0b577
 
 
