@@ -91,5 +91,21 @@
 </div>
 
 
+## ✔️ 2.1.6 Dailog In Flutter [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/android%20time%20picker)
+
+### Appendix
+
+1. __Effortless Integration__: Incorporate our Flutter `Dialog()` widget seamlessly into your project, enabling smooth user interactions with minimal setup.
+2. __Native Design Consistency__: Follows the native design guidelines of both iOS and Android platforms, ensuring a familiar and intuitive user experience across devices.
+3. __Customizable Appearance__: Easily tailor the appearance of your dialogs with customizable options for colors, fonts, and styles, allowing you to maintain brand consistency and match your app's visual identity.
+4. __Localization Support__: Facilitates multilingual app development by providing built-in support for localization, enabling your dialogs to adapt to different languages and cultural preferences effortlessly.
+5. __Interactive Elements__: Enhance user engagement with interactive elements such as buttons, input fields, and dynamic content, empowering you to create dynamic and responsive dialog experiences for your users.
+
+### Screenshots 📷
+
+<div align="left">
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.6/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.6/img2.png" height = 510 width = 240>
+</div>
+
 
 
