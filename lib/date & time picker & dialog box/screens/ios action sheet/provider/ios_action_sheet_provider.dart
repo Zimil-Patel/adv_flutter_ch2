@@ -8,7 +8,9 @@ class CupertinoActionSheetProvider extends ChangeNotifier {
       builder: (context) => CupertinoActionSheet(
         cancelButton: CupertinoActionSheetAction(
           isDefaultAction: true,
-          onPressed: () {},
+          onPressed: () {
+            Navigator.pop(context);
+          },
           child: Text(
             'Cancel',
             style: TextStyle(
@@ -29,7 +31,9 @@ class CupertinoActionSheetProvider extends ChangeNotifier {
                 fontWeight: FontWeight.w400,
               ),
             ),
-            onPressed: () {},
+            onPressed: () {
+              Navigator.pop(context);
+            },
           ),
           CupertinoActionSheetAction(
             child: Text(
@@ -39,7 +43,9 @@ class CupertinoActionSheetProvider extends ChangeNotifier {
                 fontWeight: FontWeight.w400,
               ),
             ),
-            onPressed: () {},
+            onPressed: () {
+              Navigator.pop(context);
+            },
           ),
           CupertinoActionSheetAction(
             child: Text(
@@ -49,7 +55,9 @@ class CupertinoActionSheetProvider extends ChangeNotifier {
                 fontWeight: FontWeight.w400,
               ),
             ),
-            onPressed: () {},
+            onPressed: () {
+              Navigator.pop(context);
+            },
           ),
         ],
       ),
