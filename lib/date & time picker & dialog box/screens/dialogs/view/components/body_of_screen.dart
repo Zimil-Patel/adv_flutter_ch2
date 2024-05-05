@@ -17,7 +17,7 @@ class BodyOfScreen extends StatelessWidget {
             showDialog(
               context: context,
               builder: (context) {
-                return CustomDialog();
+                return const CustomDialog();
               },
             );
           },

@@ -10,6 +10,7 @@ class FieldRow extends StatelessWidget {
       required this.icon,
       this.provider});
 
+  // ignore: prefer_typing_uninitialized_variables
   final showValue;
   final String text;
   final IconData icon;
