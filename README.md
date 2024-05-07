@@ -248,7 +248,8 @@ class MyApp extends StatelessWidget {
 ### Screenshots 📷
 
 <div align="left">
-</div>
 
-### Video Preview 🎥
+<img src = "">
+
+</div>
 
