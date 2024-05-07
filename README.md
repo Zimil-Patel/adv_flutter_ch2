@@ -182,7 +182,7 @@ __Here are a few examples of Cupertino widgets in Flutter:__
 https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/ea2d968b-2fa1-4052-b1f9-f9b07ec972a9
 
 
-## ✔️ 2.2.2 Platform class in Dart Flutter [📂 (source)]()
+## ✔️ 2.2.2 Platform class in Dart Flutter [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/platform%20class%20example)
 
 ### Knowledge
 
