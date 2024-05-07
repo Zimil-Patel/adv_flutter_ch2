@@ -145,7 +145,7 @@ https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/9a90d230-758d-46
 ### Screenshots 📷
 
 <div align="left">
-<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/snaps/2.2/2.2.1/Cupertino%20App/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/snaps/2.2/2.2.1/Cupertino%20App/img2.png" height = 510 width = 240>
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img1.png" height = 510 width = 240>
 </div>
 
 ### Video Preview 🎥
