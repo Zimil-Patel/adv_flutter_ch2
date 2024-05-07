@@ -188,6 +188,55 @@ https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/ea2d968b-2fa1-40
 
 - The '__Platform__' class in Dart Flutter provides information about the platform the app is currently running on, such as whether it's running on Android, iOS, or the web. This class is particularly useful when you need to write platform-specific code within your Flutter app.
 
+### Example / Usage
+
+```javascript
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+
+void main() {
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text('Platform Example'),
+        ),
+        body: Center(
+          child: Text(
+            'Running on: ${getPlatform()}',
+            style: TextStyle(fontSize: 20.0),
+          ),
+        ),
+      ),
+    );
+  }
+
+  String getPlatform() {
+    if (Platform.isAndroid) {
+      return 'Android';
+    } else if (Platform.isIOS) {
+      return 'iOS';
+    } else if (Platform.isWindows) {
+      return 'Windows';
+    } else if (Platform.isMacOS) {
+      return 'macOS';
+    } else if (Platform.isLinux) {
+      return 'Linux';
+    } else if (Platform.isFuchsia) {
+      return 'Fuchsia';
+    } else {
+      return 'Unknown';
+    }
+  }
+}
+
+```
+
 ### Explanation
 
 - The Platform class is imported from package:flutter/services.dart.
