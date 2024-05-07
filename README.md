@@ -136,9 +136,9 @@ https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/9a90d230-758d-46
 
 ### Knowledge
 
-In Flutter, __Cupertino widgets__ refer to a set of widgets designed to emulate the look and feel of iOS applications. These widgets follow the design language established by Apple for iOS apps, providing a consistent and familiar user experience for iOS users.
+- In Flutter, __Cupertino widgets__ refer to a set of widgets designed to emulate the look and feel of iOS applications. These widgets follow the design language established by Apple for iOS apps, providing a consistent and familiar user experience for iOS users.
 
-Cupertino widgets offer UI components such as buttons, navigation bars, sliders, switches, and more, all styled according to iOS design principles. Developers can use these widgets to build cross-platform Flutter applications that closely resemble native iOS apps.
+- Cupertino widgets offer UI components such as buttons, navigation bars, sliders, switches, and more, all styled according to iOS design principles. Developers can use these widgets to build cross-platform Flutter applications that closely resemble native iOS apps.
 
 __Here are a few examples of Cupertino widgets in Flutter:__
 
@@ -151,13 +151,22 @@ __Here are a few examples of Cupertino widgets in Flutter:__
 7. __CupertinoListTile__ - Material equivalent => __ListTile within a ListView.__
 8. __CupertinoNavigationBar__ - Material equivalent => __AppBar.__
 
+### Example (Flutter Adaptive UI Switcher)
+
+- This Flutter app showcases the ability to seamlessly switch between Material Design and Cupertino Design UI platforms, providing users with a native experience tailored to their device. The app utilizes adaptive widgets and the Provider package for efficient state management.
+
+### Features
+
+1. __Adaptive Widgets__: The app leverages adaptive widgets to dynamically adjust the UI components based on the selected platform, ensuring a consistent and native user experience.
+2. __Platform Switcher__: Users can effortlessly switch between Material Design and Cupertino Design UI platforms using a simple toggle switch.
+3. __Provider Package Integration__: State management for the UI platform switching logic is handled efficiently with the Provider package, offering a clean and scalable solution.
+
 ### Screenshots (Cupertino App with adaptive widgets) 📷
 
 <div align="left">
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img2.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img3.png" height = 510 width = 240>
 
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img4.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img5.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img6.png" height = 510 width = 240>
-
 </div>
 
 ### Screenshots (Material App with adaptive widgets) 📷
