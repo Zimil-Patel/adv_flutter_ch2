@@ -18,4 +18,8 @@ List<BottomIconsModel> iosIconList = [
       activeIcon: CupertinoIcons.phone_solid,
       unactiveIcon: CupertinoIcons.phone,
       text: 'Calls'),
+  BottomIconsModel(
+      activeIcon: CupertinoIcons.settings_solid,
+      unactiveIcon: CupertinoIcons.settings,
+      text: 'Settings'),
 ];

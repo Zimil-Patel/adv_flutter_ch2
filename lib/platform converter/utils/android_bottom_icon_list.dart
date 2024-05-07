@@ -18,4 +18,8 @@ List<BottomIconsModel> androidIconList = [
       activeIcon: Icons.call_outlined,
       unactiveIcon: Icons.call_outlined,
       text: 'Calls'),
+  BottomIconsModel(
+      activeIcon: Icons.settings,
+      unactiveIcon: Icons.settings_outlined,
+      text: 'Calls'),
 ];
