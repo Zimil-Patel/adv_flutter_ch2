@@ -4,6 +4,7 @@ import 'package:adv_flutter_ch2/date%20&%20time%20picker%20&%20dialog%20box/scre
 import 'package:adv_flutter_ch2/date%20&%20time%20picker%20&%20dialog%20box/screens/ios%20action%20sheet/provider/ios_action_sheet_provider.dart';
 import 'package:adv_flutter_ch2/date%20&%20time%20picker%20&%20dialog%20box/screens/ios%20date%20picker/provider/ios_date_picker_provider.dart';
 import 'package:adv_flutter_ch2/global%20app%20list/global_app.dart';
+import 'package:adv_flutter_ch2/platform%20class%20example/screens/platform/provider/provider.dart';
 import 'package:adv_flutter_ch2/platform%20converter/screens/home%20screen/provider/home_provider.dart';
 import 'package:adv_flutter_ch2/platform%20converter/utils/platform_provider.dart';
 import 'package:flutter/material.dart';
@@ -21,6 +22,7 @@ GlobalApp()  - all task in list view
 2.1.5: CupertinoActionSheetExample()
 2.1.6: DialogExample()
 2.2.1: PlatformConverter()
+2.2.2: PlatformIndicatorApp()
 
 */
 
