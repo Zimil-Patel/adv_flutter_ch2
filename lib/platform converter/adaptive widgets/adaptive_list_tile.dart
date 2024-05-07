@@ -1,4 +1,5 @@
 import 'package:adv_flutter_ch2/global%20app%20list/utils/constants.dart';
+import 'package:adv_flutter_ch2/platform%20converter/adaptive%20widgets/adaptive_action_sheet.dart';
 import 'package:adv_flutter_ch2/platform%20converter/utils/constants.dart';
 import 'package:adv_flutter_ch2/platform%20converter/utils/platform_provider.dart';
 import 'package:flutter/cupertino.dart';
@@ -29,6 +30,12 @@ class AdaptiveListTile extends StatelessWidget {
               Expanded(
                 child: SizedBox(
                   child: ListTile(
+                    onTap: () {
+                      showModalBottomSheet(
+                        context: context,
+                        builder: (context) => const BottomActionSheet(),
+                      );
+                    },
                     title: const Text('Jash24'),
                     subtitle: const Text(
                         maxLines: 2,
@@ -88,6 +95,12 @@ class AdaptiveListTile extends StatelessWidget {
                   ),
                   Expanded(
                     child: CupertinoListTile(
+                      onTap: () {
+                        showCupertinoModalPopup(
+                          context: context,
+                          builder: (context) => const BottomActionSheet(),
+                        );
+                      },
                       title: const Text('Jash24'),
                       subtitle: const Text(
                           maxLines: 2,

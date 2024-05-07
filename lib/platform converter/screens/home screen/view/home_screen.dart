@@ -40,7 +40,7 @@ class HomeScreen extends StatelessWidget {
             padding: const EdgeInsets.all(5),
             decoration: BoxDecoration(
               shape: BoxShape.circle,
-              color: Colors.grey.withOpacity(0.5),
+              color: Colors.grey.withOpacity(0.2),
             ),
             child: const Icon(
               CupertinoIcons.ellipsis,
