@@ -181,3 +181,25 @@ __Here are a few examples of Cupertino widgets in Flutter:__
 
 https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/ea2d968b-2fa1-4052-b1f9-f9b07ec972a9
 
+
+## ✔️ 2.2.2 Platform class in Dart Flutter [📂 (source)]()
+
+### Knowledge
+
+- The '__Platform__' class in Dart Flutter provides information about the platform the app is currently running on, such as whether it's running on Android, iOS, or the web. This class is particularly useful when you need to write platform-specific code within your Flutter app.
+
+### Explanation
+
+- The Platform class is imported from package:flutter/services.dart.
+- In the example, we have a simple Flutter app with a single screen (MyApp), which displays the platform the app is running on.
+- The getPlatform() function checks the current platform using static boolean properties like isAndroid, isIOS, etc., provided by the Platform class.
+- Depending on the platform, it returns a string indicating the platform name.
+- This information can be useful for writing platform-specific code within your Flutter app.
+
+### Screenshots 📷
+
+<div align="left">
+</div>
+
+### Video Preview 🎥
+
