@@ -5,6 +5,7 @@ import 'package:adv_flutter_ch2/date%20&%20time%20picker%20&%20dialog%20box/scre
 import 'package:adv_flutter_ch2/date%20&%20time%20picker%20&%20dialog%20box/screens/ios%20date%20picker/view/ios_date_picker.dart';
 import 'package:adv_flutter_ch2/date%20&%20time%20picker%20&%20dialog%20box/screens/ios%20time%20picker/view/ios_time_picker.dart';
 import 'package:adv_flutter_ch2/global%20app%20list/screens/model/app_list_model.dart';
+import 'package:adv_flutter_ch2/platform%20converter/platform_converter.dart';
 
 List<AppModel> appList = [
   AppModel(
@@ -30,5 +31,9 @@ List<AppModel> appList = [
   AppModel(
     title: '2.1.5:  Dialog box',
     widget: const DialogExample(),
+  ),
+  AppModel(
+    title: '2.2.1:  Platform converter',
+    widget: const PlatformConverter(),
   ),
 ];
