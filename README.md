@@ -167,6 +167,8 @@ __Here are a few examples of Cupertino widgets in Flutter:__
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img2.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img3.png" height = 510 width = 240>
 
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img4.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img5.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img6.png" height = 510 width = 240>
+
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img7.png" height = 510 width = 240>
 </div>
 
 ### Screenshots (Material App with adaptive widgets) 📷
@@ -175,6 +177,8 @@ __Here are a few examples of Cupertino widgets in Flutter:__
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Material%20App/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Material%20App/img2.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Material%20App/img3.png" height = 510 width = 240>
 
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Material%20App/img4.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Material%20App/img5.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Material%20App/img6.png" height = 510 width = 240>
+
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Material%20App/img7.png" height = 510 width = 240>
 </div>
 
 ### Video Preview 🎥
