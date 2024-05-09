@@ -24,6 +24,7 @@ GlobalApp()  - all task in list view
 2.2.2: PlatformIndicatorApp()
 2.3.1: CustomScrollExample()
 2.3.2: CupertinoListEnchanced()
+2.3.3: CupertinoSettingScreen()
 
 */
 
