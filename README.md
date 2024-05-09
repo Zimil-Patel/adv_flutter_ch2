@@ -258,7 +258,7 @@ class MyApp extends StatelessWidget {
 </div>
 
 
-## ✔️ 2.3.1 CupertinoSliverNavigationBar [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/android%20time%20picker)
+## ✔️ 2.3.1 CupertinoSliverNavigationBar [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/custom%20scroll)
 
 ### Knowledge
 
@@ -277,15 +277,15 @@ class MyApp extends StatelessWidget {
 ### Screenshots 📷
 
 <div align="left">
-<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.6/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.3/2.3.1/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ### Video Preview 🎥
 
-https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/9a90d230-758d-468c-a5b3-d2a236d0b577
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/7ac9ca25-e931-4603-988c-2c774bb6f7a5
 
 
-## ✔️ 2.3.2 CupertinoListTile [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/android%20time%20picker)
+## ✔️ 2.3.2 CupertinoListTile [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/cupertino%20list%20enhanced)
 
 ### Knowledge
 
@@ -308,15 +308,16 @@ https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/9a90d230-758d-46
 ### Screenshots 📷
 
 <div align="left">
-<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.6/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.3/2.3.2/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ### Video Preview 🎥
 
-https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/9a90d230-758d-468c-a5b3-d2a236d0b577
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/8f5a6dbb-3095-49b6-891c-de56c8219265
 
 
-## ✔️ 2.3.3 CupertinoListTile Setting Screen [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/android%20time%20picker)
+
+## ✔️ 2.3.3 CupertinoListTile Setting Screen [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/cupertino%20settings%20screen)
 
 ### Knowledge
 
@@ -325,9 +326,10 @@ https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/9a90d230-758d-46
 ### Screenshots 📷
 
 <div align="left">
-<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.6/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.3/2.3.3/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ### Video Preview 🎥
 
-https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/9a90d230-758d-468c-a5b3-d2a236d0b577
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/5dd5e600-4193-4db7-852f-bb9ef9350c47
+
