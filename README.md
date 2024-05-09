@@ -167,6 +167,8 @@ __Here are a few examples of Cupertino widgets in Flutter:__
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img2.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img3.png" height = 510 width = 240>
 
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img4.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img5.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img6.png" height = 510 width = 240>
+
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Cupertino%20App/img7.png" height = 510 width = 240>
 </div>
 
 ### Screenshots (Material App with adaptive widgets) 📷
@@ -175,6 +177,8 @@ __Here are a few examples of Cupertino widgets in Flutter:__
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Material%20App/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Material%20App/img2.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Material%20App/img3.png" height = 510 width = 240>
 
 <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Material%20App/img4.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Material%20App/img5.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Material%20App/img6.png" height = 510 width = 240>
+
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.1/Material%20App/img7.png" height = 510 width = 240>
 </div>
 
 ### Video Preview 🎥
@@ -182,7 +186,7 @@ __Here are a few examples of Cupertino widgets in Flutter:__
 https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/ea2d968b-2fa1-4052-b1f9-f9b07ec972a9
 
 
-## ✔️ 2.2.2 Platform class in Dart Flutter [📂 (source)]()
+## ✔️ 2.2.2 Platform class in Dart Flutter [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/platform%20class%20example)
 
 ### Knowledge
 
@@ -249,7 +253,7 @@ class MyApp extends StatelessWidget {
 
 <div align="left">
 
-<img src = "">
+<img src = "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.2/2.2.2/img1.png">
 
 </div>
 
