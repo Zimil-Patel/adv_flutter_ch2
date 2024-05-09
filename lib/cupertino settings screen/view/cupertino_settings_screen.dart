@@ -2,6 +2,7 @@ import 'package:adv_flutter_ch2/cupertino%20settings%20screen/utils/setting_list
 import 'package:adv_flutter_ch2/cupertino%20settings%20screen/view/components/setting_list_section_tile.dart';
 import 'package:adv_flutter_ch2/cupertino%20settings%20screen/view/components/setting_list_section_wtih_image.dart';
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 
 class CupertinoSettingScreen extends StatelessWidget {
   const CupertinoSettingScreen({super.key});
@@ -10,6 +11,7 @@ class CupertinoSettingScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return CupertinoApp(
       debugShowCheckedModeBanner: false,
+      theme: const CupertinoThemeData(brightness: Brightness.light),
       builder: (context, child) => CupertinoPageScaffold(
         backgroundColor: const Color(0xfff2f2f7),
         navigationBar: const CupertinoNavigationBar(

@@ -8,6 +8,7 @@ class CustomScrollExample extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return CupertinoApp(
+      theme: const CupertinoThemeData(brightness: Brightness.light),
       debugShowCheckedModeBanner: false,
       builder: (context, child) => const CupertinoPageScaffold(
         // CUSTOM SCROLL VIEW
