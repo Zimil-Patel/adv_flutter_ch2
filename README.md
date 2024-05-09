@@ -257,3 +257,77 @@ class MyApp extends StatelessWidget {
 
 </div>
 
+
+## ✔️ 2.3.1 CupertinoSliverNavigationBar [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/android%20time%20picker)
+
+### Knowledge
+
+- The CupertinoSliverNavigationBar widget in Flutter is primarily used for creating navigation bars in iOS-style scrollable app bars. It's typically used within a CustomScrollView as the sliver property to provide navigation controls and title within the app's scrolling content.
+
+1. __Effortless Integration__: Seamless integration of the CupertinoSliverNavigationBar widget into your Flutter project, allowing for smooth navigation experiences with minimal setup.
+
+2. __Native Design Consistency__: Adheres to the design principles of the iOS platform, ensuring a consistent and familiar user interface across iOS devices.
+
+3. __Customizable Appearance__: Offers flexibility in customizing the appearance of the navigation bar, including options for colors, fonts, and styles, enabling you to maintain brand consistency and match your app's visual identity.
+
+4. __Localization Support__: Supports multilingual app development by providing built-in localization support, allowing your navigation bar to adapt to different languages and cultural preferences effortlessly.
+
+5. __Interactive Elements__: Enhances user interaction with the navigation bar by incorporating interactive elements such as buttons, leading/trailing widgets, and dynamic content, enabling you to create engaging and responsive navigation experiences for your users.
+
+### Screenshots 📷
+
+<div align="left">
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.6/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+### Video Preview 🎥
+
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/9a90d230-758d-468c-a5b3-d2a236d0b577
+
+
+## ✔️ 2.3.2 CupertinoListTile [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/android%20time%20picker)
+
+### Knowledge
+
+- In Flutter, CupertinoListTile is a widget used to create list items with an iOS-style appearance. It's similar to ListTile in the Material Design framework but styled to match the Cupertino (iOS) design language. 
+
+1. __Native iOS Design__: Designed to match the native iOS design guidelines, ensuring a consistent and intuitive user interface on iOS devices.
+
+2. __Easy Integration**: Simple integration into your Flutter project, allowing for the creation of list items with minimal setup.
+
+3. __Customizable Appearance__: Offers options to customize colors, fonts, and styles, enabling you to maintain brand consistency and match your app's visual identity.
+
+4. __Interactive Elements__: Supports interactive elements such as tap gestures, allowing for enhanced user interaction and engagement.
+
+5. __Flexible Content__: Accommodates various content types, including text, images, icons, and more, providing flexibility in displaying information within list items.
+
+6. __Localization Support__: Built-in support for localization, enabling list items to adapt to different languages and cultural preferences seamlessly.
+
+7. __Accessibility__: Prioritizes accessibility by providing features such as semantic labels and actions, ensuring an inclusive user experience for all users.
+
+### Screenshots 📷
+
+<div align="left">
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.6/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+### Video Preview 🎥
+
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/9a90d230-758d-468c-a5b3-d2a236d0b577
+
+
+## ✔️ 2.3.3 CupertinoListTile Setting Screen [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/android%20time%20picker)
+
+### Knowledge
+
+- "In my iOS settings screen example, I've leveraged CupertinoListTile.notched and CupertinoListSection.groupInset to improve user engagement and streamline content presentation."
+
+### Screenshots 📷
+
+<div align="left">
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.6/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+### Video Preview 🎥
+
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/9a90d230-758d-468c-a5b3-d2a236d0b577
