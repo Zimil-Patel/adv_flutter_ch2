@@ -1,3 +1,5 @@
+import 'package:adv_flutter_ch2/cupertino%20list%20enhanced/view/list_enchanced.dart';
+import 'package:adv_flutter_ch2/custom%20scroll/view/custom_scroll.dart';
 import 'package:adv_flutter_ch2/date%20&%20time%20picker%20&%20dialog%20box/screens/android%20date%20picker/view/android_date_picker.dart';
 import 'package:adv_flutter_ch2/date%20&%20time%20picker%20&%20dialog%20box/screens/android%20time%20picker/view/android_time_picker.dart';
 import 'package:adv_flutter_ch2/date%20&%20time%20picker%20&%20dialog%20box/screens/dialogs/view/dialog.dart';
@@ -40,5 +42,13 @@ List<AppModel> appList = [
   AppModel(
     title: '2.2.2:  Platform Indicator',
     widget: const PlatformIndicatorApp(),
+  ),
+  AppModel(
+    title: '2.3.1:  Custom Scroll view',
+    widget: const CustomScrollExample(),
+  ),
+  AppModel(
+    title: '2.3.2:  Cupertino List Enhanced',
+    widget: const CupertinoListEnchanced(),
   ),
 ];
