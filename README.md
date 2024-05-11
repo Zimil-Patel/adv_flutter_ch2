@@ -333,3 +333,65 @@ https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/8f5a6dbb-3095-49
 
 https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/5dd5e600-4193-4db7-852f-bb9ef9350c47
 
+
+## ✔️ 2.4.1 CupertinoSlider [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/cupertino%20slider)
+
+### Knowledge
+
+- "In my iOS settings screen example, I've leveraged CupertinoListTile.notched and CupertinoListSection.groupInset to improve user engagement and streamline content presentation."
+
+### Screenshots 📷
+
+<div align="left">
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.4/2.4.1/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.4/2.4.1/img2.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+### Video Preview 🎥
+
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/5dd5e600-4193-4db7-852f-bb9ef9350c47
+
+
+## ✔️ 2.4.2 CupertinoSlidingSegmentedControl [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/cupertino%20segement%20control)
+
+### Knowledge
+
+- "In my iOS settings screen example, I've leveraged CupertinoListTile.notched and CupertinoListSection.groupInset to improve user engagement and streamline content presentation."
+
+### Screenshots 📷
+
+<div align="left">
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.4/2.4.2/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.4/2.4.2/img2.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.4/2.4.2/img3.png" height = 510 width = 240>
+</div>
+
+### Video Preview 🎥
+
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/5dd5e600-4193-4db7-852f-bb9ef9350c47
+
+
+## ✔️ 2.4.3 CupertinoTabBar [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/cupertino%20tab%20bar)
+
+### Knowledge
+
+- Using CupertinoTabBar in Flutter
+
+* The CupertinoTabBar is a widget provided by the Flutter framework specifically designed to create tab bars following the design principles of iOS apps. It mimics the behavior and appearance of the tab bar found in iOS apps.
+
+* Key Features:
+
+1. __iOS Native Look__: CupertinoTabBar provides a native iOS look and feel to your Flutter app's tab bar, making it seamlessly integrate with the overall iOS aesthetics.
+
+2. __Easy Integration__: Integrating CupertinoTabBar into your app is straightforward. Simply wrap your CupertinoTabScaffold with CupertinoTabBar and provide it with the necessary parameters like tabs, current index, etc.
+
+3. __Customizable__: Despite its native look, CupertinoTabBar is highly customizable. You can adjust various aspects such as tab colors, icons, text, and more to match your app's theme.
+
+4. __Tab Navigation__: It facilitates easy navigation between different sections or pages of your app. Users can tap on the tabs to switch between different content views quickly.
+
+### Screenshots 📷
+
+<div align="left">
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.4/2.4.3/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.4/2.4.3/img2.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.4/2.4.3/img3.png" height = 510 width = 240>
+</div>
+
+### Video Preview 🎥
+
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/5dd5e600-4193-4db7-852f-bb9ef9350c47
