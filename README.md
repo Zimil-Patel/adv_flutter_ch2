@@ -338,7 +338,17 @@ https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/5dd5e600-4193-4d
 
 ### Knowledge
 
-- "In my iOS settings screen example, I've leveraged CupertinoListTile.notched and CupertinoListSection.groupInset to improve user engagement and streamline content presentation."
+- Using CupertinoSlider in Flutter
+* The CupertinoSlider is a widget provided by the Flutter framework that allows users to select a value from a range by dragging a thumb along a horizontal track. It closely resembles the slider component found in iOS apps.
+
+- Key Features:
+1. __iOS-like Slider__: CupertinoSlider replicates the appearance and behavior of the slider component commonly found in iOS applications. It blends seamlessly with the iOS design aesthetics.
+
+2. __Horizontal Dragging__: Users can drag the thumb horizontally along the slider track to select a value within the specified range. This provides an intuitive way to make selections.
+
+3. __Customizable__: Despite its native iOS look, CupertinoSlider is customizable. You can adjust various aspects such as track color, thumb color, and slider range to match your app's design.
+
+4. __Value Selection__: The selected value of the slider can be tracked using the value parameter, making it easy to manage the state of the slider within your Flutter app.
 
 ### Screenshots 📷
 
@@ -355,7 +365,17 @@ https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/5dd5e600-4193-4d
 
 ### Knowledge
 
-- "In my iOS settings screen example, I've leveraged CupertinoListTile.notched and CupertinoListSection.groupInset to improve user engagement and streamline content presentation."
+- Using CupertinoSlidingSegmentedControl in Flutter
+* The CupertinoSlidingSegmentedControl is a widget provided by the Flutter framework, which resembles a segmented control found in iOS apps. It allows users to make selections from a list of mutually exclusive options by sliding between them horizontally.
+
+- Key Features:
+1. __iOS-like Segmented Control__: CupertinoSlidingSegmentedControl replicates the appearance and behavior of the segmented control component commonly found in iOS applications.
+
+2. __Horizontal Sliding__: Users can slide between different segments to make selections. This provides a visually appealing and intuitive way to navigate between options.
+
+3. __Customizable__: Despite its native iOS look, CupertinoSlidingSegmentedControl is customizable. You can adjust various aspects such as segment labels, colors, and more to match your app's design.
+
+4. __State Management__: The selected segment can be tracked using the groupValue parameter, making it easy to manage the state of the segmented control within your Flutter app.
 
 ### Screenshots 📷
 
