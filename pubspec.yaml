@@ -35,4 +35,5 @@ flutter:
   assets:
     - assets/
     - assets/2.1/
+    - assets/2.4/
     - assets/settings/

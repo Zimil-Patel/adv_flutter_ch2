@@ -1,3 +1,5 @@
+import 'package:adv_flutter_ch2/cupertino%20segement%20control/provider/segment_provider.dart';
+import 'package:adv_flutter_ch2/cupertino%20slider/provider/slider_provider.dart';
 import 'package:adv_flutter_ch2/date%20&%20time%20picker%20&%20dialog%20box/screens/android%20date%20picker/provider/andorid_date_picker_provider.dart';
 import 'package:adv_flutter_ch2/date%20&%20time%20picker%20&%20dialog%20box/screens/android%20time%20picker/provider/time_picker_provider.dart';
 import 'package:adv_flutter_ch2/date%20&%20time%20picker%20&%20dialog%20box/screens/dialogs/provider/dialog_provider.dart';
@@ -25,6 +27,8 @@ GlobalApp()  - all task in list view
 2.3.1: CustomScrollExample()
 2.3.2: CupertinoListEnchanced()
 2.3.3: CupertinoSettingScreen()
+2.4.1: CupertinoSlider()
+2.4.2: SegmentScreen()
 
 */
 
@@ -50,6 +54,12 @@ void main() {
     ),
     ChangeNotifierProvider(
       create: (context) => HomeProvider(),
+    ),
+    ChangeNotifierProvider(
+      create: (context) => SliderProvider(),
+    ),
+    ChangeNotifierProvider(
+      create: (context) => SegmentProvider(),
     ),
   ], child: const MainApp()));
 }
