@@ -338,7 +338,8 @@ https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/5dd5e600-4193-4d
 
 ### Knowledge
 
-- Using CupertinoSlider in Flutter
+### Using CupertinoSlider in Flutter
+
 * The CupertinoSlider is a widget provided by the Flutter framework that allows users to select a value from a range by dragging a thumb along a horizontal track. It closely resembles the slider component found in iOS apps.
 
 - Key Features:
@@ -358,14 +359,15 @@ https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/5dd5e600-4193-4d
 
 ### Video Preview 🎥
 
-https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/5dd5e600-4193-4db7-852f-bb9ef9350c47
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/3fafc8c8-8e51-4423-a63a-d26bbaf3a86b
 
 
 ## ✔️ 2.4.2 CupertinoSlidingSegmentedControl [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/cupertino%20segement%20control)
 
 ### Knowledge
 
-- Using CupertinoSlidingSegmentedControl in Flutter
+### Using CupertinoSlidingSegmentedControl in Flutter
+
 * The CupertinoSlidingSegmentedControl is a widget provided by the Flutter framework, which resembles a segmented control found in iOS apps. It allows users to make selections from a list of mutually exclusive options by sliding between them horizontally.
 
 - Key Features:
@@ -385,14 +387,14 @@ https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/5dd5e600-4193-4d
 
 ### Video Preview 🎥
 
-https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/5dd5e600-4193-4db7-852f-bb9ef9350c47
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/989f787c-f8f7-422d-a315-1d5403e2bb6a
 
 
 ## ✔️ 2.4.3 CupertinoTabBar [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/cupertino%20tab%20bar)
 
 ### Knowledge
 
-- Using CupertinoTabBar in Flutter
+### Using CupertinoTabBar in Flutter
 
 * The CupertinoTabBar is a widget provided by the Flutter framework specifically designed to create tab bars following the design principles of iOS apps. It mimics the behavior and appearance of the tab bar found in iOS apps.
 
@@ -414,4 +416,5 @@ https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/5dd5e600-4193-4d
 
 ### Video Preview 🎥
 
-https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/5dd5e600-4193-4db7-852f-bb9ef9350c47
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/7d216ec0-ce71-4e86-8a55-461178eab939
+
