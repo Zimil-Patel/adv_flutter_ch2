@@ -507,6 +507,32 @@ The `CupertinoActionSheet` widget in Flutter is used to display a modal action s
 
 https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/71a16f70-6278-43b7-9014-4f4b27938d0d
 
+## ✔️ 2.6.1 PageView [📂 (source)](https://github.com/Zimil-Patel/AdvFlutterCh1/tree/main/lib/intro%20using%20shared%20preferences)
+
+### Knowledge
+
+## PageView
+
+The `PageView` widget in Flutter allows for the creation of scrollable pages, enabling horizontal or vertical scrolling between child widgets.
+
+### Features
+
+- **Scrollable Pages**: Facilitates smooth navigation between multiple pages.
+- **Customizable Scroll Direction**: Supports both horizontal and vertical scrolling.
+- **PageController Integration**: Easily control page navigation programmatically.
+
+### Screenshots 📷
+
+<div align="left">
+<img src = "https://github.com/Zimil-Patel/AdvFlutterCh1/blob/main/snaps/1.5/img1.png" height = "500" width = "240"> &nbsp;&nbsp;&nbsp;&nbsp; <img src = "https://github.com/Zimil-Patel/AdvFlutterCh1/blob/main/snaps/1.5/img2.png" height = "500" width = "240"> &nbsp;&nbsp;&nbsp;&nbsp; <img src = "https://github.com/Zimil-Patel/AdvFlutterCh1/blob/main/snaps/1.5/img3.png" height = "500" width = "240">
+</div>
+
+### Video Preview 🎥
+
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/4097215b-2c68-4c0e-8562-76f4de9d4595
+
+
+
 
 
 
