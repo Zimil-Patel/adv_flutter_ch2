@@ -418,3 +418,62 @@ https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/989f787c-f8f7-42
 
 https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/7d216ec0-ce71-4e86-8a55-461178eab939
 
+## ✔️ 2.5.1 CupertinoContextMenu [📂 (source)](https://github.com/Zimil-Patel/AdvFlutterCh1/tree/main/lib/gallery%20with%20authentication)
+
+### Knowledge
+
+## CupertinoContextMenu
+
+The `CupertinoContextMenu` widget in Flutter provides an iOS-style context menu. It is typically used to display additional options when a user long-presses on a widget.
+
+### Features
+
+- **Interactive Context Menu**: Presents a full-screen modal with the selected widget enlarged, revealing additional options.
+- **Customizable Actions**: Allows you to specify a list of actions for the context menu, each represented by `CupertinoContextMenuAction`.
+- **Smooth Animations**: Includes smooth animations for opening and closing the context menu, providing a native iOS feel.
+
+### Properties
+
+- **child**: The widget that triggers the context menu when long-pressed.
+- **actions**: A list of `CupertinoContextMenuAction` widgets representing the options in the context menu.
+- **previewBuilder**: A builder that creates a preview of the widget when the context menu is activated.
+
+### Example
+
+```dart
+CupertinoContextMenu(
+  child: Container(
+    width: 100,
+    height: 100,
+    color: Colors.blue,
+    child: Center(child: Text('Long Press Me')),
+  ),
+  actions: <Widget>[
+    CupertinoContextMenuAction(
+      child: Text('Action 1'),
+      onPressed: () {
+        Navigator.pop(context);
+      },
+    ),
+    CupertinoContextMenuAction(
+      child: Text('Action 2'),
+      onPressed: () {
+        Navigator.pop(context);
+      },
+    ),
+  ],
+)
+```
+
+### Screenshots 📷
+
+<div align="left">
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.5/2.5.1/img1.png" height = 510 width = 240>
+</div>
+
+### Video Preview 🎥
+
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/e91fb495-900b-469d-abcb-db2d72c4b00f
+
+
+
