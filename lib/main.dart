@@ -1,3 +1,4 @@
+import 'package:adv_flutter_ch2/cupertino%20action%20sheet/provider/cupertino_action_sheet_provider.dart';
 import 'package:adv_flutter_ch2/cupertino%20segement%20control/provider/segment_provider.dart';
 import 'package:adv_flutter_ch2/cupertino%20slider/provider/slider_provider.dart';
 import 'package:adv_flutter_ch2/date%20&%20time%20picker%20&%20dialog%20box/screens/android%20date%20picker/provider/andorid_date_picker_provider.dart';
@@ -60,6 +61,9 @@ void main() {
     ),
     ChangeNotifierProvider(
       create: (context) => SegmentProvider(),
+    ),
+    ChangeNotifierProvider(
+      create: (context) => CupertinoActionSheetProviderTwo(),
     ),
   ], child: const MainApp()));
 }

@@ -1,3 +1,4 @@
+import 'package:adv_flutter_ch2/cupertino%20action%20sheet/view/cupertino_action_sheet.dart';
 import 'package:adv_flutter_ch2/cupertino%20list%20enhanced/view/list_enchanced.dart';
 import 'package:adv_flutter_ch2/cupertino%20segement%20control/view/segment_screen.dart';
 import 'package:adv_flutter_ch2/cupertino%20settings%20screen/view/cupertino_settings_screen.dart';
@@ -71,5 +72,9 @@ List<AppModel> appList = [
   AppModel(
     title: '2.4.3:  Cupertino Tab Bar',
     widget: const CupertinoTabBarDemo(),
+  ),
+  AppModel(
+    title: '2.5.2:  Cupertino Action Sheet Two',
+    widget: const CupertinoActionSheetExampleTwo(),
   ),
 ];
