@@ -15,6 +15,7 @@ import 'package:adv_flutter_ch2/date%20&%20time%20picker%20&%20dialog%20box/scre
 import 'package:adv_flutter_ch2/global%20app%20list/screens/model/app_list_model.dart';
 import 'package:adv_flutter_ch2/platform%20class%20example/platform.dart';
 import 'package:adv_flutter_ch2/platform%20converter/platform_converter.dart';
+import 'package:adv_flutter_ch2/silver%20grid/view/silver_grid_screen.dart';
 import 'package:adv_flutter_ch2/silver%20list/view/silver_list_screen.dart';
 
 List<AppModel> appList = [
@@ -85,5 +86,9 @@ List<AppModel> appList = [
   AppModel(
     title: '2.8.1:  Silver List',
     widget: const SilverListScreen(),
+  ),
+  AppModel(
+    title: '2.8.1:  Silver Grid',
+    widget: const SilverGridScreen(),
   ),
 ];
