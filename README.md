@@ -587,8 +587,7 @@ class MyApp extends StatelessWidget {
 https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/6c1bf67a-7f94-449b-a7eb-5573175b5ee3
 
 
-## ✔️ 2.7 Date Picker (Show selected date) [📂 (source)]()
-
+## ✔️ 2.7 Date Picker (Show selected date) [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/android%20date%20picker) / CupertinoDatePicker [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/ios%20date%20picker)
 ### Knowledge
 
 ## DateTime
