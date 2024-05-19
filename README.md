@@ -532,6 +532,61 @@ The `PageView` widget in Flutter allows for the creation of scrollable pages, en
 https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/4097215b-2c68-4c0e-8562-76f4de9d4595
 
 
+## ✔️ 2.6.2 BottomNavigationBar [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/bottom%20navigation)
+
+### Knowledge
+
+## Navigation Bar
+
+The Material 3 Navigation Bar component in Flutter provides a bottom navigation interface, allowing users to navigate between primary destinations in an app.
+
+### Features
+
+- **Primary Navigation**: Facilitates quick navigation between main sections of an app.
+- **Customizable Icons and Labels**: Supports custom icons and text labels for navigation items.
+- **Theming Support**: Easily customizable to match the app's theme.
+
+### Usage
+
+Here’s an example of how to use the Navigation Bar in Flutter:
+
+```dart
+import 'package:flutter/material.dart';
+
+void main() => runApp(MyApp());
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: Scaffold(
+        bottomNavigationBar: NavigationBar(
+          destinations: <NavigationDestination>[
+            NavigationDestination(icon: Icon(Icons.home), label: 'Home'),
+            NavigationDestination(icon: Icon(Icons.business), label: 'Business'),
+            NavigationDestination(icon: Icon(Icons.school), label: 'School'),
+          ],
+        ),
+        body: Center(child: Text('Content here')),
+      ),
+    );
+  }
+}
+```
+
+### Screenshots 📷
+
+<div align="left">
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.6/2.6.2/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.6/2.6.2/img2.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.6/2.6.2/img3.png" height = 510 width = 240>
+
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.6/2.6.2/img4.png" height = 510 width = 240>
+</div>
+
+### Video Preview 🎥
+
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/6c1bf67a-7f94-449b-a7eb-5573175b5ee3
+
+
 
 
 
