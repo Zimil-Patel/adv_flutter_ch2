@@ -587,6 +587,61 @@ class MyApp extends StatelessWidget {
 https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/6c1bf67a-7f94-449b-a7eb-5573175b5ee3
 
 
+## ✔️ 2.7 Date Picker (Show selected date) [📂 (source)]()
+
+### Knowledge
+
+## DateTime
+
+The `DateTime` class in Dart represents a point in time, providing various methods to work with dates and times.
+
+### Features
+
+- **Create Dates**: Supports creation of `DateTime` objects for specific dates and times.
+- **Manipulate Dates**: Methods for adding and subtracting durations, and comparing dates.
+- **Formatting and Parsing**: Convert between strings and `DateTime` objects.
+
+### Usage
+
+Here's a simple example of using `DateTime` in Dart:
+
+```dart
+void main() {
+  // Current date and time
+  DateTime now = DateTime.now();
+  
+  // Specific date and time
+  DateTime newYear = DateTime(2024, 1, 1);
+  
+  // Formatting
+  print('Current Date and Time: $now');
+  print('New Year: $newYear');
+  
+  // Difference between dates
+  Duration difference = newYear.difference(now);
+  print('Days until New Year: ${difference.inDays}');
+}
+```
+
+## DatePicker
+
+1. __Easy Integration__: Quickly integrate our Flutter material date picker widget into your project.
+2. __Material Design__: Follows Google's Material Design guidelines for consistent user experience.
+3. __Customizable__: Easily customize colors, fonts, and date formats to match your app's design.
+4. __Localization Support__: Built-in support for displaying dates in different languages and formats.
+5. __Flexible Date Range Selection__: Allows users to select single dates, date ranges, or restrict dates within a specific range.
+
+### Screenshots 📷
+
+<div align="left">
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.1/img1.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.1/img2.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.1/img3.png" height = 510 width = 240>
+
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.1/2.1.1/img4.png" height = 510 width = 240> &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+### Video Preview 🎥
+
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/d9e91e7d-8483-40aa-9658-10ca8fd0a200
 
 
 
