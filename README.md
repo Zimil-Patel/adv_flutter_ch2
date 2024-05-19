@@ -644,6 +644,51 @@ void main() {
 https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/d9e91e7d-8483-40aa-9658-10ca8fd0a200
 
 
+## ✔️ 2.8.1 Date Picker (Show selected date) [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/silver%20list/view)
+
+### Knowledge
+
+### SliverList
+
+[`SliverList`](https://api.flutter.dev/flutter/widgets/SliverList-class.html) is a widget that displays a list of children in a scrollable manner. It works with a `SliverChildDelegate` to manage the children efficiently.
+
+#### Key Features
+- **Efficient Child Management:** Uses a delegate to lazily build child widgets, improving performance.
+- **Scrollable List:** Integrates seamlessly into a scrollable area, allowing for smooth vertical scrolling.
+- **Custom Child Count:** Can display an extensive number of child widgets efficiently.
+
+### SliverAppBar
+
+[`SliverAppBar`](https://api.flutter.dev/flutter/material/SliverAppBar-class.html) is a material design app bar that can be integrated into a `CustomScrollView`. It supports various scroll effects and can remain pinned or floating.
+
+#### Key Features
+- **Flexible Scroll Effects:** Can be configured to float, pin, or snap during scrolling.
+- **Expanded Heights:** Supports expanded heights with customizable content in the flexible space.
+- **Material Design:** Adheres to material design guidelines, providing a consistent app bar appearance.
+
+
+### CustomScrollView
+
+[`CustomScrollView`](https://api.flutter.dev/flutter/widgets/CustomScrollView-class.html) is a ScrollView that creates custom scroll effects using slivers. It allows for mixing different scrollable and non-scrollable widgets.
+
+#### Key Features
+- **Flexible Layouts:** Combine various slivers to create complex scrolling effects and layouts.
+- **Custom Scroll Effects:** Tailor the scrolling behavior and appearance to fit specific needs.
+- **Mixed Widget Types:** Combine different types of slivers, such as lists, grids, and app bars, in a single scrollable area.
+
+
+### Screenshots 📷
+
+<div align="left">
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.8/2.8.1/img1.png" height = 510 width = 240>
+</div>
+
+### Video Preview 🎥
+
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/c0aebd4a-b8ab-4dd6-ad10-9444d3503bb4
+
+
+
 
 
 
