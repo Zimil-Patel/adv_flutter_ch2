@@ -644,7 +644,7 @@ void main() {
 https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/d9e91e7d-8483-40aa-9658-10ca8fd0a200
 
 
-## ✔️ 2.8.1 Date Picker (Show selected date) [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/silver%20list/view)
+## ✔️ 2.8.1 Silver List [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/silver%20list/view)
 
 ### Knowledge
 
