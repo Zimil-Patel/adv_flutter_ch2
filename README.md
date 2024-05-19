@@ -688,6 +688,62 @@ https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/d9e91e7d-8483-40
 https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/c0aebd4a-b8ab-4dd6-ad10-9444d3503bb4
 
 
+## ✔️ 2.8.2 Silver Grid [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/silver%20grid/view)
+
+### Knowledge
+
+# Flutter SliverGrid Documentation
+
+This repository demonstrates the usage of the `SliverGrid` widget in Flutter to create a scrollable grid layout.
+
+## Overview
+
+The `SliverGrid` widget displays its children in a two-dimensional arrangement, typically used for creating grids of items in a scrollable area.
+
+### SliverGrid
+
+[`SliverGrid`](https://api.flutter.dev/flutter/widgets/SliverGrid-class.html) is a widget that arranges its children into a grid. It is commonly used within a `CustomScrollView` to provide scrollable grid layouts.
+
+#### Key Features
+- **Grid Layout:** Organizes children into a grid, customizable in terms of columns and rows.
+- **Customizable Grid Delegates:** Uses `SliverGridDelegate` to control the layout and sizing of children.
+- **Efficient Scrolling:** Integrates with other sliver widgets in a `CustomScrollView` for smooth, efficient scrolling.
+
+#### Example Usage
+```dart
+SliverGrid(
+  gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+    crossAxisCount: 2, // Number of columns
+    mainAxisSpacing: 10.0,
+    crossAxisSpacing: 10.0,
+    childAspectRatio: 1.0,
+  ),
+  delegate: SliverChildBuilderDelegate(
+    (BuildContext context, int index) {
+      return Container(
+        color: Colors.teal[100 * (index % 9)],
+        child: Center(
+          child: Text('Grid Item $index'),
+        ),
+      );
+    },
+    childCount: 50, // Number of items
+  ),
+)
+```
+
+### Screenshots 📷
+
+<div align="left">
+<img src= "https://github.com/Zimil-Patel/adv_flutter_ch2/blob/main/snaps/2.8/2.8.2/img1.png" height = 510 width = 240>
+</div>
+
+### Video Preview 🎥
+
+https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/71e656d0-1899-4602-b637-863272ea157e
+
+
+
 
 
 
