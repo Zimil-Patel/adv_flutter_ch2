@@ -1,3 +1,4 @@
+import 'package:adv_flutter_ch2/bottom%20navigation/provider/navigation_provider.dart';
 import 'package:adv_flutter_ch2/cupertino%20action%20sheet/provider/cupertino_action_sheet_provider.dart';
 import 'package:adv_flutter_ch2/cupertino%20segement%20control/provider/segment_provider.dart';
 import 'package:adv_flutter_ch2/cupertino%20slider/provider/slider_provider.dart';
@@ -64,6 +65,9 @@ void main() {
     ),
     ChangeNotifierProvider(
       create: (context) => CupertinoActionSheetProviderTwo(),
+    ),
+    ChangeNotifierProvider(
+      create: (context) => NavigationProvider(),
     ),
   ], child: const MainApp()));
 }

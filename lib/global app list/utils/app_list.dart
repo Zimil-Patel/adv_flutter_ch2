@@ -1,3 +1,4 @@
+import 'package:adv_flutter_ch2/bottom%20navigation/view/bottom_navigation_screen.dart';
 import 'package:adv_flutter_ch2/cupertino%20action%20sheet/view/cupertino_action_sheet.dart';
 import 'package:adv_flutter_ch2/cupertino%20list%20enhanced/view/list_enchanced.dart';
 import 'package:adv_flutter_ch2/cupertino%20segement%20control/view/segment_screen.dart';
@@ -14,7 +15,6 @@ import 'package:adv_flutter_ch2/date%20&%20time%20picker%20&%20dialog%20box/scre
 import 'package:adv_flutter_ch2/global%20app%20list/screens/model/app_list_model.dart';
 import 'package:adv_flutter_ch2/platform%20class%20example/platform.dart';
 import 'package:adv_flutter_ch2/platform%20converter/platform_converter.dart';
-import 'package:flutter/cupertino.dart';
 
 List<AppModel> appList = [
   AppModel(
@@ -76,5 +76,9 @@ List<AppModel> appList = [
   AppModel(
     title: '2.5.2:  Cupertino Action Sheet Two',
     widget: const CupertinoActionSheetExampleTwo(),
+  ),
+  AppModel(
+    title: '2.6.2:  Bottom Navigation Bar',
+    widget: const BottomNavigationScreen(),
   ),
 ];
