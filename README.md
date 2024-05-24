@@ -112,7 +112,7 @@ https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/41ab1cfe-ad55-4c
 https://github.com/Zimil-Patel/adv_flutter_ch2/assets/112332000/ee51da86-af47-4100-894d-1893a003aa78
 
 
-## ✔️ 2.1.6 Dailog In Flutter [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/android%20time%20picker)
+## ✔️ 2.1.6 Dailog In Flutter [📂 (source)](https://github.com/Zimil-Patel/adv_flutter_ch2/tree/main/lib/date%20%26%20time%20picker%20%26%20dialog%20box/screens/dialogs)
 
 ### Knowledge
 
